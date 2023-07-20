@@ -1,0 +1,10 @@
+{
+  "produtos": [
+    { 
+      "id": 1, 
+      "descricao": "Sapato Social New York", 
+      "preco": "199.90",
+      "imagem": "produto.webp"
+    }
+  ]
+}
